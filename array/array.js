@@ -1,5 +1,5 @@
 // 1. Create a cart (array)
-let cart = ["Milk", "Bread", "Butter"];
+let cart = ["wheat", "Bread", "Butter"];
 console.log("Initial Cart:", cart);
 
 // 2. Indexing → Access item
